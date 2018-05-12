@@ -1,0 +1,29 @@
+_repo: Los-Indios-su-Historia-y-su-Civilizaci-n_45250
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45250-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Batres Jáuregui, Antonio
+    aliases:
+    - Jáuregui, Antonio Batres
+    - Batres Jauregui, Antonio
+    gutenberg_agent_id: '43172'
+    url: http://www.gutenberg.org/2009/agents/43172
+description: ''
+gutenberg_issued: '2014-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45250'
+  lccn: '16010010'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of Central America -- Guatemala'
+- !lcsh 'Indians'
+- !lcc 'F1461'
+title: Los Indios, su Historia y su Civilización
+url: http://www.gutenberg.org/ebooks/45250
